@@ -1,0 +1,27 @@
+{
+    "name" : "syed",
+    "id" : "anabsshsh1273737",
+    "days" : "28",
+    "wdays" : "28",
+    "earning" :{
+        "basicsalary" : "amount",
+        "HRA" : "amount",
+        "LTA" : "amount",
+        "Medical" : "amount",
+        "SpecialAllowance" : "amount",
+        "Incentives" : "amount",
+        "ESIC" : "amount",
+        "PF" : "amount",
+        "Total" : "amount",
+        "deduction":{
+            "PF" : "amount",
+            "ESI" : "amount",
+            "LossOfAssests" : "amount",
+            "TDS" : "amount",
+            "Miscellaneous" : "amount",
+            "ProfessionalTax" : "amount",
+            "Cess/Surcharge" : "amount",
+            "Total" : "amount"
+        }
+    } 
+}
